@@ -1001,6 +1001,9 @@ input[type="checkbox"]:checked + label .form-check-span {
     }
 }
 @media (min-width:1158px) {
+    .header > .container {
+        width: 1158px;
+    }
     .container{
         width: 1158px;
     }
