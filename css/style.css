@@ -1039,3 +1039,9 @@ input[type="checkbox"]:checked + label .form-check-span {
         width: 408px;
     }
 }
+
+@media (min-resolution: 2x) {
+    .slider {
+        background-image: url(../images/slider.jpg);
+      }
+  }
